@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SMZ3.Countdown.Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7098",
+      "launchBrowser": false
+    }
+  }
+}
